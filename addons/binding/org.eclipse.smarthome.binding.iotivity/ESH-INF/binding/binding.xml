@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<binding:binding id="iotivity"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:binding="http://eclipse.org/smarthome/schemas/binding/v1.0.0"
+        xsi:schemaLocation="http://eclipse.org/smarthome/schemas/binding/v1.0.0 http://eclipse.org/smarthome/schemas/binding-1.0.0.xsd">
+
+    <name>IoTivity Binding</name>
+    <description>This is the binding for IoTivity. At the moment only resources of the type core.light can be discovered and accessed.</description>
+    <author>Benjamin Cabé</author>
+
+</binding:binding>
